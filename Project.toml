@@ -1,0 +1,13 @@
+name = "SeisXcorr"
+uuid = "faa6b04b-40ff-4ea1-9850-da4102426ec8"
+authors = ["Xiaotao_Yang"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
