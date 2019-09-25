@@ -5,4 +5,4 @@
 [![Build Status](https://travis-ci.com/xtyangpsp/SeisXcorr.jl.svg?branch=master)](https://travis-ci.com/xtyangpsp/SeisXcorr.jl)
 [![Codecov](https://codecov.io/gh/xtyangpsp/SeisXcorr.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/xtyangpsp/SeisXcorr.jl)
 
-This is a package modified from [SeisXcorrelation] (https://github.com/jaredbryan881/SeisXcorrelation.jl.git) by by Jared Bryan and Kurama Okubo 
+This is a package modified from [SeisXcorrelation](https://github.com/jaredbryan881/SeisXcorrelation.jl.git) by by Jared Bryan and Kurama Okubo.
